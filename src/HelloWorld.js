@@ -7,7 +7,7 @@ import {
     Typography,
 } from "@mui/material"
 import { ethers } from "ethers"
-import React, { useState } from "react"
+import { useState } from "react"
 import { contractAddress, abi } from "./constants"
 
 const HelloWorld = () => {
